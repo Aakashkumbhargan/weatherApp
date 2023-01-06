@@ -67,9 +67,6 @@ function App() {
               <p>Wind Speed</p>
             </div>
           </div>
-
-
-
         }
         {data.name !== undefined &&
 
@@ -91,9 +88,6 @@ function App() {
               </input>
             </div><div className="view-more">View More</div>
           </div>
-
-
-
         }
       </div>
     </div>
